@@ -30,7 +30,7 @@
 ### Changes
 
 - DOCS Update
-  - [Volt Dashboard Flask](https://docs.appseed.us/products/flask-dashboards/volt/) - `official help` 
+  - [Rbt Magic Dashboard Flask](https://docs.appseed.us/products/flask-dashboards/volt/) - `official help` 
 - Links Curation (minor)
 
 ## [1.0.11] 2022-12-31
@@ -61,7 +61,7 @@
 ## [1.0.7] 2022-05-25
 ### Improvements
 
-- Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard/)
+- Built with [Rbt Magic Dashboard Generator](https://appseed.us/generator/volt-dashboard/)
   - Timestamp: `2022-05-25 22:26`
 - Codebase refactoring
 - Added CDN Support
@@ -101,7 +101,7 @@
 ## [1.0.4] 2021-08-27
 ### Improvements
 
-- Bump UI - [Volt Dashboard v1.4.1](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases) 
+- Bump UI - [Rbt Magic Dashboard v1.4.1](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases) 
   
 ## Unreleased 2021-05-26
 ### Tooling
@@ -122,7 +122,7 @@
 ### Improvements
 
 - Bump UI: [Jinja Volt](https://github.com/app-generator/jinja-volt-dashboard/releases) v1.0.1
-- [Volt Dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases) v1.3.2
+- [Rbt Magic Dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases) v1.3.2
 
 ## [1.0.1] 2021-03-18
 ### Improvements
@@ -135,6 +135,6 @@
 ## [1.0.0] 2021-01-17
 
 - Bump UI: [Jinja Volt](https://github.com/app-generator/jinja-volt-dashboard/releases) v1.0.0
-- [Volt Dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases/tag) v1.2.0 
+- [Rbt Magic Dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard/releases/tag) v1.2.0 
 - Codebase: [Flask Dashboard](https://github.com/app-generator/boilerplate-code-flask-dashboard/releases) v1.0.3
 
